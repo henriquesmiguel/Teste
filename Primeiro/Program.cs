@@ -15,6 +15,7 @@ namespace PrimeiroBase
             char genero = 'M';
             TimeSpan t1 = new TimeSpan(900000000);
             TimeSpan t2 = new TimeSpan(700000000);
+            TimeSpan t2 = new TimeSpan(200000000);
 
             Console.WriteLine("Time: " + t1);
 
