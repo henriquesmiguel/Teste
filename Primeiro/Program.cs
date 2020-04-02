@@ -14,9 +14,8 @@ namespace PrimeiroBase
             int codigo = 5290;
             char genero = 'M';
             TimeSpan t1 = new TimeSpan(900000000);
-            TimeSpan t2 = new TimeSpan(700000000);
-            TimeSpan t2 = new TimeSpan(200000000);
 
+            Console.WriteLine("Resultados!!");
             Console.WriteLine("Time: " + t1);
 
             double preco1 = 2100.0, preco2 = 650.50, medida = 53.234567;
