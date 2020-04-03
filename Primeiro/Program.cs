@@ -8,6 +8,8 @@ namespace PrimeiroBase
         string globalString;
         static void Main(string[] args)
         {
+            Console.WriteLine("**************Program is starting***************");
+
             string produto1 = "Computador";
             string produto2 = "Mesa de escritório";
             byte idade = 30;
